@@ -1,0 +1,7 @@
+kaggle 
+python-dotenv 
+ipython 
+autoviz 
+dtale
+sweetviz
+ydata-profiling
